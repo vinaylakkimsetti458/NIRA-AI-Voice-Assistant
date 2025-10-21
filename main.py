@@ -300,8 +300,3 @@ if __name__ == "__main__":
                 # Playing the audio
                     play_audio(audio_file)
                 print("\nPress 'y' to ask another question or 'q' to quit.")
-
-
-
-
-
